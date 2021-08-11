@@ -12,7 +12,7 @@ namespace SalesWeb.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Developer Lucas Ramos.";
         }
     }
 }
